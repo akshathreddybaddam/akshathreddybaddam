@@ -13,5 +13,5 @@ Currently using: C · Java · Python (learning)
 Learning next: C++ · Networking · Linux Security
 
 ## Connect
-LinkedIn: linkedin.com/in/akshathreddybaddam
+LinkedIn: linkedin.com/in/akshathreddybaddam  
 Email: akshathreddybaddam@gmail.com
