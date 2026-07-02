@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Akshath Reddy Baddam
 
-<!--
-**akshathreddybaddam/akshathreddybaddam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE @ NIT Andhra Pradesh (2025–2029) | 2nd Year
 
-Here are some ideas to get you started:
+## What I'm Currently Working On
+- Exploring AI Security & Adversarial ML
+- MIT Missing Semester — Shell, Git, Linux (assignments in progress)
+- Kaggle — Python & Data Science courses
+- Solving problems on LeetCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages & Tools
+Currently using: C · Java · Python (learning)
+Learning next: C++ · Networking · Linux Security
+
+## Connect
+LinkedIn: linkedin.com/in/akshathreddybaddam
+Email: akshathreddybaddam@gmail.com
