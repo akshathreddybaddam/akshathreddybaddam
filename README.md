@@ -9,7 +9,7 @@ B.Tech CSE @ NIT Andhra Pradesh (2025–2029) | 2nd Year
 - Solving problems on LeetCode
 
 ## Languages & Tools
-Currently using: C · Java · Python (learning)
+Currently using: C · Java · Python (learning)  
 Learning next: C++ · Networking · Linux Security
 
 ## Connect
